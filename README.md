@@ -4,4 +4,12 @@
 
 My first attempt to create workflow with alfred
 
-Just import the file `Mute Teams.alfredworkflow` to have the workflow Ctrl + Option + Cmd + M to Mute
+## Installation 
+
+Double Click the file to import 
+
+Just import the file `Mute Teams.alfredworkflow` to have the workflow 
+
+## Mute / Unmute 
+
+Ctrl + Option + Cmd + M to Mute / Unmute
